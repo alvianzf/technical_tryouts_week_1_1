@@ -1,6 +1,6 @@
 # Technical Assessment
 #### Glints Academy Technical Tryouts
-Week 1
+Week 1 - Benchmarking
 
 -----
   
