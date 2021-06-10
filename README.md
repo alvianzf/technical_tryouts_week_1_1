@@ -20,6 +20,6 @@ Week 1
 
 ### Details
 1. Use [unsplash](https://unsplash.com/developers) or [Flickr](https://www.flickr.com/services/feeds/) public API. (BE/FE/Mobile)
-2. Use any types of unit testing you are familiar with. (BE/FE/RN)
-3. Use any public styling framework to work on the UI. (FE/RN)
+2. Use any types of unit testing you are familiar with. (BE/FE/Mobile)
+3. Use any public styling framework to work on the UI. (FE/Mobile)
 4. Push your code to github classrooms using this repository that you've cloned.
